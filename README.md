@@ -1,3 +1,3 @@
 # DaTS-Revision
 
-This is a claude made revision from class slides
+This is a claude made revision material sourced from class slides
