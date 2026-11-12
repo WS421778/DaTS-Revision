@@ -33,23 +33,6 @@ app-source/
 └── build.py            # Bundles everything into one HTML file
 ```
 
-## Building
-
-You need Python 3. From `app-source/`, run:
-
-```bash
-py build.py
-```
-
-This writes `UWE Revision Academy.html` to the parent folder.
-
-## Updating the live site
-
-1. Rebuild with the command above.
-2. Rename `UWE Revision Academy.html` to `index.html`.
-3. Upload it to this repository, replacing the old file, and commit.
-4. GitHub Pages redeploys automatically within a minute or two.
-
 ## Disclaimer
 
 This is an unofficial study aid and is not affiliated with or endorsed by UWE Bristol. Always check what you learn against the official module materials.
